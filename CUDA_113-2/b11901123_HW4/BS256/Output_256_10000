@@ -1,0 +1,87 @@
+=== Multi-GPU Vector Dot Product Calculator ===
+
+Specify number of GPUs to utilize: Using 2 GPU(s)
+Enter GPU device IDs (space-separated): 0 1 
+Enter vector size (number of elements): Vector size: 40960000 elements
+Enter threads per block (must be power of 2): Threads per block: 256
+Enter blocks per grid: Blocks per grid: 10000
+
+Initializing vectors with random values...
+
+Starting multi-GPU computation...
+Data transfer to GPUs: 50.06 ms
+GPU computation time: 5.16 ms
+GPU performance: 15.89 GFLOPS
+Data transfer from GPUs: 11.95 ms
+Total GPU execution time: 67.16 ms
+
+Computing CPU reference solution...
+CPU computation time: 36.36 ms
+CPU performance: 2.25 GFLOPS
+GPU speedup factor: 0.54x
+
+=== RESULTS VERIFICATION ===
+Relative error: 1.042489406519326e-07
+GPU result:     1.281236144363880e+03
+CPU result:     1.281236277931405e+03
+✗ Warning: Results differ significantly
+
+Execution completed successfully.
+=== Multi-GPU Vector Dot Product Calculator ===
+
+Specify number of GPUs to utilize: Using 2 GPU(s)
+Enter GPU device IDs (space-separated): 0 1 
+Enter vector size (number of elements): Vector size: 40960000 elements
+Enter threads per block (must be power of 2): Threads per block: 256
+Enter blocks per grid: Blocks per grid: 10000
+
+Initializing vectors with random values...
+
+Starting multi-GPU computation...
+Data transfer to GPUs: 50.11 ms
+GPU computation time: 5.16 ms
+GPU performance: 15.87 GFLOPS
+Data transfer from GPUs: 11.94 ms
+Total GPU execution time: 67.21 ms
+
+Computing CPU reference solution...
+CPU computation time: 38.10 ms
+CPU performance: 2.15 GFLOPS
+GPU speedup factor: 0.57x
+
+=== RESULTS VERIFICATION ===
+Relative error: 1.042489406519326e-07
+GPU result:     1.281236144363880e+03
+CPU result:     1.281236277931405e+03
+✗ Warning: Results differ significantly
+
+Execution completed successfully.
+=== Multi-GPU Vector Dot Product Calculator ===
+
+Specify number of GPUs to utilize: Using 2 GPU(s)
+Enter GPU device IDs (space-separated): 0 1 
+Enter vector size (number of elements): Vector size: 40960000 elements
+Enter threads per block (must be power of 2): Threads per block: 256
+Enter blocks per grid: Blocks per grid: 10000
+
+Initializing vectors with random values...
+
+Starting multi-GPU computation...
+Data transfer to GPUs: 50.03 ms
+GPU computation time: 5.15 ms
+GPU performance: 15.89 GFLOPS
+Data transfer from GPUs: 8.80 ms
+Total GPU execution time: 63.99 ms
+
+Computing CPU reference solution...
+CPU computation time: 38.08 ms
+CPU performance: 2.15 GFLOPS
+GPU speedup factor: 0.60x
+
+=== RESULTS VERIFICATION ===
+Relative error: 1.042489406519326e-07
+GPU result:     1.281236144363880e+03
+CPU result:     1.281236277931405e+03
+✗ Warning: Results differ significantly
+
+Execution completed successfully.

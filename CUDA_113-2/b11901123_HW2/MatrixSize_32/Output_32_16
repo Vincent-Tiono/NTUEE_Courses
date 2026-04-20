@@ -1,0 +1,19 @@
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Trace of a Matrix: tr(A)
+Enter the size of the matrix: 6400
+Enter the number (2^m) of threads per block: 32
+Enter the number of blocks per grid: 16
+Input time for GPU: 0.215712 (ms)
+Processing time for GPU: 0.114688 (ms)
+GPU Gflops: 0.055804
+Output time for GPU: 0.108032 (ms)
+Total time for GPU: 0.438432 (ms)
+Processing time for CPU: 0.010528 (ms)
+CPU Gflops: 0.607903
+Speed up of GPU = 0.024013
+Check result:
+|traceCPU - traceGPU| / traceCPU = -5.414340276552156e-08
+traceGPU   = -3.302598571777344e+01
+traceCPU   = -3.302598750591278e+01
+

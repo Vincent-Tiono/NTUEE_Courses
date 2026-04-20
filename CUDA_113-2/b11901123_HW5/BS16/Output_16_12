@@ -1,0 +1,35 @@
+=== Multi-GPU Heat Diffusion Solver ===
+Solving 2D thermal equilibrium problem
+
+Enter GPU grid configuration (NGx NGy): GPU grid: 1 x 2
+Enter GPU device ID 0: Using GPU device 0
+Enter GPU device ID 1: Using GPU device 1
+
+Enter domain dimensions (Nx Ny): Domain size: 1024 x 1024
+Subdomain per GPU: 1024 x 512
+
+Enter CUDA block size (tx ty): Block size: 16 x 16
+Blocks per GPU: 64 x 32
+Setting up thermal boundary conditions...
+  Top edge: 400.0 K
+  Other edges: 273.0 K
+Setting up thermal boundary conditions...
+  Top edge: 400.0 K
+  Other edges: 273.0 K
+
+Allocating GPU memory...
+Data transfer to GPU: 11.08 ms
+
+Solving thermal equilibrium...
+Convergence threshold: 1.00e-10
+Convergence achieved!
+Final error: 0.000000000000000e+00
+Computation time: 94469.69 ms
+Performance: 93.96 GFlops
+
+Transferring results...
+Data transfer from GPU: 4.70 ms
+Total execution time: 94485.46 ms
+
+Cleaning up resources...
+=== Heat Diffusion Solver Complete ===

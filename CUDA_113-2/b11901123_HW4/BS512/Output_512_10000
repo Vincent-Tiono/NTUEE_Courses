@@ -1,0 +1,29 @@
+=== Multi-GPU Vector Dot Product Calculator ===
+
+Specify number of GPUs to utilize: Using 2 GPU(s)
+Enter GPU device IDs (space-separated): 0 1 
+Enter vector size (number of elements): Vector size: 40960000 elements
+Enter threads per block (must be power of 2): Threads per block: 512
+Enter blocks per grid: Blocks per grid: 10000
+
+Initializing vectors with random values...
+
+Starting multi-GPU computation...
+Data transfer to GPUs: 50.10 ms
+GPU computation time: 5.24 ms
+GPU performance: 15.64 GFLOPS
+Data transfer from GPUs: 11.94 ms
+Total GPU execution time: 67.27 ms
+
+Computing CPU reference solution...
+CPU computation time: 37.87 ms
+CPU performance: 2.16 GFLOPS
+GPU speedup factor: 0.56x
+
+=== RESULTS VERIFICATION ===
+Relative error: 9.727991015565221e-09
+GPU result:     1.281236290395260e+03
+CPU result:     1.281236277931405e+03
+✗ Warning: Results differ significantly
+
+Execution completed successfully.

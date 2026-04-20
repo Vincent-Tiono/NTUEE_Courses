@@ -1,0 +1,11 @@
+numpy>=1.19.2
+opencv-python==4.10.0.82
+opencv-contrib-python==4.10.0.82
+tqdm>=4.60.0
+  
+# conda create -n cv_hw2_py38
+# conda create -n cv_hw2_py38
+# conda config --env --set subdir osx-64
+# conda install python==3.8.20
+# conda install -c conda-forge cyvlfeat
+# pip install -r requirements_py38.txt

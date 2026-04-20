@@ -1,0 +1,10 @@
+2
+GPU_ID1 GPU_ID2
+40960000
+256
+10000
+
+# N_GPU
+# device numbers  
+# vector length 
+# block size

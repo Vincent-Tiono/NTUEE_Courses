@@ -1,0 +1,21 @@
+Enter the GPU ID (0/1): 0
+Using GPU with device ID = 0
+Solving 3D Poisson equation with Dirichlet boundary conditions
+Enter the size (nx, ny, nz) of the 3D lattice: 33 33 33
+Enter the number of threads (tx, ty, tz) per block: 8 8 8
+Grid dimensions: (5, 5, 5)
+Compute using CPU/GPU/both (0/1/2)? 2
+GPU Setup Time: 0.17 ms
+Final residual (GPU): 5.106956502046690e-11
+Iterations completed (GPU): 2888
+GPU Computation Time: 73.38 ms
+GPU Performance: 8.21 Gflops
+GPU Cleanup Time: 0.11 ms
+Total GPU Time: 73.66 ms
+
+Final residual (CPU): 5.106956502046690e-11
+Iterations completed (CPU): 2888
+CPU Computation Time: 411.24 ms
+CPU Performance: 1.46 Gflops
+GPU Speedup: 5.58
+Total Program Time: 492.29 ms

@@ -1,0 +1,384 @@
+000 (1015658.000.000) 05/15 14:01:19 Job submitted from host: <192.168.1.254:35795>
+...
+013 (1015658.000.000) 05/15 14:01:21 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015658.000.000) 05/15 14:01:45 Job executing on host: <192.168.1.219:42259>
+...
+Job start: host=twqcd218, JOB_ID=1015658, GPU_ID=0, wdir=/home/cuda2025/B11901123/homeworks/HW3
+005 (1015658.000.000) 05/15 14:01:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015724.000.000) 05/16 20:07:14 Job submitted from host: <192.168.1.254:38733>
+...
+000 (1015725.000.000) 05/16 20:07:23 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015724.000.000) 05/16 20:07:24 Job was released.
+	via condor_release (by user condor)
+...
+000 (1015726.000.000) 05/16 20:07:35 Job submitted from host: <192.168.1.254:38733>
+...
+001 (1015724.000.000) 05/16 20:07:43 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015724.000.000) 05/16 20:07:43 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+013 (1015725.000.000) 05/16 20:07:45 Job was released.
+	via condor_release (by user condor)
+...
+013 (1015726.000.000) 05/16 20:08:05 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015725.000.000) 05/16 20:08:06 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015725.000.000) 05/16 20:08:06 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+001 (1015726.000.000) 05/16 20:08:06 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015726.000.000) 05/16 20:08:06 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015727.000.000) 05/16 20:21:47 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015727.000.000) 05/16 20:21:50 Job was released.
+	via condor_release (by user condor)
+...
+000 (1015728.000.000) 05/16 20:21:53 Job submitted from host: <192.168.1.254:38733>
+...
+000 (1015729.000.000) 05/16 20:21:56 Job submitted from host: <192.168.1.254:38733>
+...
+001 (1015727.000.000) 05/16 20:22:03 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015727.000.000) 05/16 20:22:03 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+013 (1015728.000.000) 05/16 20:22:11 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015728.000.000) 05/16 20:22:26 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015728.000.000) 05/16 20:22:26 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+013 (1015729.000.000) 05/16 20:22:31 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015729.000.000) 05/16 20:22:49 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015729.000.000) 05/16 20:22:49 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015730.000.000) 05/16 20:24:10 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015730.000.000) 05/16 20:24:15 Job was released.
+	via condor_release (by user condor)
+...
+000 (1015731.000.000) 05/16 20:24:24 Job submitted from host: <192.168.1.254:38733>
+...
+000 (1015732.000.000) 05/16 20:24:28 Job submitted from host: <192.168.1.254:38733>
+...
+001 (1015730.000.000) 05/16 20:24:36 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015730.000.000) 05/16 20:24:36 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+013 (1015731.000.000) 05/16 20:24:46 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015731.000.000) 05/16 20:24:59 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015731.000.000) 05/16 20:24:59 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+013 (1015732.000.000) 05/16 20:25:06 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015732.000.000) 05/16 20:25:22 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015732.000.000) 05/16 20:25:22 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015733.000.000) 05/16 20:27:31 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015733.000.000) 05/16 20:27:31 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015733.000.000) 05/16 20:27:51 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015733.000.000) 05/16 20:27:51 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015734.000.000) 05/16 20:30:22 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015734.000.000) 05/16 20:30:26 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015734.000.000) 05/16 20:30:48 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015734.000.000) 05/16 20:30:48 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015738.000.000) 05/16 21:09:45 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015738.000.000) 05/16 21:09:46 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015738.000.000) 05/16 21:10:11 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015738.000.000) 05/16 21:10:12 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015739.000.000) 05/16 21:10:55 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015739.000.000) 05/16 21:10:58 Job was released.
+	via condor_release (by user condor)
+...
+000 (1015740.000.000) 05/16 21:11:03 Job submitted from host: <192.168.1.254:38733>
+...
+001 (1015739.000.000) 05/16 21:11:23 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015739.000.000) 05/16 21:11:24 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+013 (1015740.000.000) 05/16 21:11:30 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015740.000.000) 05/16 21:11:45 Job executing on host: <192.168.1.219:42259>
+...
+Job start: host=twqcd218, JOB_ID=1015740, GPU_ID=0, wdir=/home/cuda2025/B11901123/homeworks/HW3
+005 (1015740.000.000) 05/16 21:11:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015741.000.000) 05/16 21:12:36 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015741.000.000) 05/16 21:12:42 Job was released.
+	via condor_release (by user condor)
+...
+000 (1015742.000.000) 05/16 21:12:45 Job submitted from host: <192.168.1.254:38733>
+...
+001 (1015741.000.000) 05/16 21:13:01 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015741.000.000) 05/16 21:13:01 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+013 (1015742.000.000) 05/16 21:13:03 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015742.000.000) 05/16 21:13:24 Job executing on host: <192.168.1.219:42259>
+...
+005 (1015742.000.000) 05/16 21:13:24 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015743.000.000) 05/16 21:13:59 Job submitted from host: <192.168.1.254:38733>
+...
+000 (1015744.000.000) 05/16 21:14:03 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015743.000.000) 05/16 21:14:05 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015743.000.000) 05/16 21:14:26 Job executing on host: <192.168.1.219:42259>
+...
+Job start: host=twqcd218, JOB_ID=1015743, GPU_ID=0, wdir=/home/cuda2025/B11901123/homeworks/HW3
+013 (1015744.000.000) 05/16 21:14:36 Job was released.
+	via condor_release (by user condor)
+...
+005 (1015743.000.000) 05/16 21:14:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:11, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:11, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+001 (1015744.000.000) 05/16 21:14:44 Job executing on host: <192.168.1.219:42259>
+...
+Job start: host=twqcd218, JOB_ID=1015744, GPU_ID=0, wdir=/home/cuda2025/B11901123/homeworks/HW3
+005 (1015744.000.000) 05/16 21:14:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015747.000.000) 05/16 21:16:55 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015747.000.000) 05/16 21:17:01 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015747.000.000) 05/16 21:17:13 Job executing on host: <192.168.1.219:42259>
+...
+Job start: host=twqcd218, JOB_ID=1015747, GPU_ID=0, wdir=/home/cuda2025/B11901123/homeworks/HW3
+005 (1015747.000.000) 05/16 21:17:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
+000 (1015748.000.000) 05/16 21:18:28 Job submitted from host: <192.168.1.254:38733>
+...
+013 (1015748.000.000) 05/16 21:18:34 Job was released.
+	via condor_release (by user condor)
+...
+001 (1015748.000.000) 05/16 21:19:00 Job executing on host: <192.168.1.219:42259>
+...
+Job start: host=twqcd218, JOB_ID=1015748, GPU_ID=0, wdir=/home/cuda2025/B11901123/homeworks/HW3
+005 (1015748.000.000) 05/16 21:19:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:14, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:14, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...

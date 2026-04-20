@@ -1,0 +1,9 @@
+GPU_ID             
+6400
+24
+
+
+========= Input parameters =====
+GPU_ID        device number to be assigned by condor
+matrix_size
+block_size

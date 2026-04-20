@@ -1,0 +1,31 @@
+This is README file for Algorithm PA#3
+Author: 張甡源 b11901123
+Date: 11/22/2024
+=====
+SYNOPSIS:
+
+cb inputs/<input_file_name> outputs/<output_file_name>
+
+This program processes directed and undirected graphs, ensuring acyclic connectivity while optimizing edge weights using reverse Kruskal's algorithm and cycle detection.
+=====
+DIRECTORY:
+
+src/main.cpp 
+bin/cb
+doc/report.pdf
+makefile
+README
+utilities/checkSubmitPA3.sh
+
+======
+HOW TO COMPILE:
+
+	Under the root directory of this PA, simply type
+	make
+======
+HOW TO RUN:
+
+	cd bin/
+	./bin/cb inputs/<input_file_name> outputs/<output_file_name>
+======
+OTHER NOTICE:

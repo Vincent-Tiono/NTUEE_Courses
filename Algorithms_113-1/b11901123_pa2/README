@@ -1,0 +1,32 @@
+This is README file for Algorithm PA#2
+Author: 張甡源 b11901123
+Date: 11/02/2024
+=====
+SYNOPSIS:
+
+mps inputs/<input file name> outputs/<output file name>
+
+This program computes the number of chords in the maximum planar subset in a circle of n chords,
+using dynamic programming algorithm.
+=====
+DIRECTORY:
+
+src/main.cpp 
+bin/mps
+doc/report.pdf
+makefile
+README
+utilities/checkSubmitPA2_v1.sh
+
+======
+HOW TO COMPILE:
+
+	Under the root directory of this PA, simply type
+	make
+======
+HOW TO RUN:
+
+	cd bin/
+	./bin/mps inputs/<input file name> outputs/<output file name>
+======
+OTHER NOTICE:

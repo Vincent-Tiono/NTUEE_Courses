@@ -1,0 +1,16 @@
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Matrix Reciprocal Sum: C = 1/A + 1/B
+Enter the size of the matrices: 6400
+Enter the block size: 32
+The number of blocks is 40000
+Input time for GPU: 26.627520 (ms)
+Processing time for GPU: 13.530304 (ms)
+GPU Gflops: 9.081836
+Output time for GPU: 12.419200 (ms)
+Total time for GPU: 52.577023 (ms)
+Processing time for CPU: 305.455170 (ms)
+CPU Gflops: 0.402285
+Check result:
+norm(host_C - host_Ref)=0.000000000000000e+00
+
