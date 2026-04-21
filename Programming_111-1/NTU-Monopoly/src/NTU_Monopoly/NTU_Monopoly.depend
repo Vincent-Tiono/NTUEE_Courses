@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1670910181 source:c:\users\user\desktop\ntu monopoly\ntu_monopoly\main.cpp
+	<SDL.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"Player.h"
+	"Property.h"
+	"block.h"
+	"corner.h"
+	"chanceandchest.h"
+	"card.h"
+
+1670907520 c:\users\user\desktop\ntu monopoly\ntu_monopoly\player.h
+
+1670909146 c:\users\user\desktop\ntu monopoly\ntu_monopoly\property.h
+	"block.h"
+	<iostream>
+
+1670913377 c:\users\user\desktop\ntu monopoly\ntu_monopoly\block.h
+	<vector>
+	<string>
+
+1670913377 c:\users\user\desktop\ntu monopoly\ntu_monopoly\corner.h
+	"block.h"
+	<iostream>
+
+1670910236 c:\users\user\desktop\ntu monopoly\ntu_monopoly\chanceandchest.h
+	"block.h"
+
+1670910857 c:\users\user\desktop\ntu monopoly\ntu_monopoly\card.h
+	<vector>
+	<string>
+
+1672912505 source:c:\users\user\desktop\ntu_monopoly\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	"card.h"
+	"text.h"
+
+1672734292 c:\users\user\desktop\ntu_monopoly\player.h
+	"text.h"
+
+1672912291 c:\users\user\desktop\ntu_monopoly\property.h
+	"block.h"
+	<iostream>
+
+1672825105 c:\users\user\desktop\ntu_monopoly\block.h
+	<vector>
+	<string>
+	"Player.h"
+
+1672648899 c:\users\user\desktop\ntu_monopoly\corner.h
+	"block.h"
+	<iostream>
+
+1672851786 c:\users\user\desktop\ntu_monopoly\chanceandchest.h
+	"block.h"
+
+1672852370 c:\users\user\desktop\ntu_monopoly\card.h
+	<vector>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"data.h"
+	"text.h"
+
+1672922453 c:\users\user\desktop\ntu_monopoly\data.h
+	"Player.h"
+	"Property.h"
+	"block.h"
+	"corner.h"
+	"chanceandchest.h"
+	"event.h"
+
+1672759644 c:\users\user\desktop\ntu_monopoly\event.h
+	"block.h"
+
+1672730805 c:\users\user\desktop\ntu_monopoly\text.h
+
+1672912505 source:c:\users\user\desktop\group01\src\ntu_monopoly\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+	"card.h"
+	"text.h"
+
+1672989592 c:\users\user\desktop\group01\src\ntu_monopoly\card.h
+	<vector>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"data.h"
+	"text.h"
+
+1672922453 c:\users\user\desktop\group01\src\ntu_monopoly\data.h
+	"Player.h"
+	"Property.h"
+	"block.h"
+	"corner.h"
+	"chanceandchest.h"
+	"event.h"
+
+1672734292 c:\users\user\desktop\group01\src\ntu_monopoly\player.h
+	"text.h"
+
+1672730805 c:\users\user\desktop\group01\src\ntu_monopoly\text.h
+
+1672989509 c:\users\user\desktop\group01\src\ntu_monopoly\property.h
+	"block.h"
+	<iostream>
+
+1672825105 c:\users\user\desktop\group01\src\ntu_monopoly\block.h
+	<vector>
+	<string>
+	"Player.h"
+
+1672648899 c:\users\user\desktop\group01\src\ntu_monopoly\corner.h
+	"block.h"
+	<iostream>
+
+1672851786 c:\users\user\desktop\group01\src\ntu_monopoly\chanceandchest.h
+	"block.h"
+
+1672989592 c:\users\user\desktop\group01\src\ntu_monopoly\event.h
+	"block.h"
+
